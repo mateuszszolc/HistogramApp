@@ -1,0 +1,51 @@
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\ZedGraph.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\ZedGraph.xml
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mateu\source\repos\Histogram\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Histogram\Histogram\obj\Debug\Histogram.Form1.resources
+C:\Users\mateu\source\repos\Histogram\Histogram\obj\Debug\Histogram.Properties.Resources.resources
+C:\Users\mateu\source\repos\Histogram\Histogram\obj\Debug\Histogram.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\Histogram\Histogram\obj\Debug\Histogram.csproj.CopyComplete
+C:\Users\mateu\source\repos\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\mateu\source\repos\Histogram\Histogram\obj\Debug\Histogram.pdb
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\ZedGraph.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\ZedGraph.xml
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.Form1.resources
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.Properties.Resources.resources
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.csproj.GenerateResource.cache
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.csproj.CopyComplete
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\mateu\Documents\Przedmioty\V SEMESTR\Metodyka badań naukowych\Ćwiczenie 3\Program\HistogramApp\Histogram\Histogram\obj\Debug\Histogram.pdb
